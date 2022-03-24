@@ -1,4 +1,4 @@
-import "./style.css";
+import './style.css';
 
 class Tasks {
   constructor() {
@@ -20,7 +20,7 @@ class Tasks {
                 </li>`;
         return htmlText;
       })
-      .join(" ");
+      .join('');
     const container = document.getElementById('tasks');
     container.innerHTML = dell;
   };
