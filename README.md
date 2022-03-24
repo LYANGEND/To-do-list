@@ -19,7 +19,7 @@ git@github.com:LYANGEND/TO-DO-LIST.git in your terminal.
 
 
 
-## Author
+
 
 👤 **Author**
 
