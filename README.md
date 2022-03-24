@@ -27,11 +27,6 @@ git@github.com:LYANGEND/TO-DO-LIST.git in your terminal.
 - Twitter: [@twitterhandle](https://twitter.com/david_lyangenda)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/david-lyangenda-623087151/)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
