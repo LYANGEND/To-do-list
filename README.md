@@ -14,7 +14,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://lyangend.github.io/TO-DO-LIST/)
+[https://lyangend.github.io/TO-DO-LIST/]
 
 
 ## Getting Started
