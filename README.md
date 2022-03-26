@@ -1,62 +1,36 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# TO-DO-LIST
 
-> Description the project.
+> The purpose of this project is to create a web page application that has a to-do list,when the user adds items the list is generated and displayed on the page. We use webpack javascript and basic html and css.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, CSS, JAVASCRIPT & WEBPACK
+
+## ScreenShot Demo
+![AddBook Page](./images/page.png)
+
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[https://lyangend.github.io/TO-DO-LIST/]
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+To get a local copy and run:
+git@github.com:LYANGEND/TO-DO-LIST.git in your terminal.
 
 
 
-## Authors
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Author**
 
-👤 **Author2**
+- GitHub: [@githubhandle](https://github.com/LYANGEND)
+- Twitter: [@twitterhandle](https://twitter.com/david_lyangenda)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/david-lyangenda-623087151/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -66,7 +40,7 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- etc
+- 
 
 ## 📝 License
 

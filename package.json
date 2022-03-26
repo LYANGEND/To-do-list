@@ -1,0 +1,46 @@
+{
+  "name": "To-Do-List",
+  "version": "1.0.0",
+  "description": "To do list is a basic website, On page load render the dynamically created list of tasks in the dedicated placeholder. The list should appear in order of the index values for each task.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch",
+    "build": "webpack",
+    "start": "webpack-dev-server --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:LYANGEND/TO-DO-LIST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LYANGEND/TO-DO-LIST/issues"
+  },
+  "homepage": "https://github.com/LYANGEND/TO-DO-LIST#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "css-loader": "^6.7.1",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.4",
+    "hint": "^6.1.10",
+    "html-webpack-plugin": "^5.5.0",
+    "sass-loader": "^12.6.0",
+    "scss-loader": "^0.0.1",
+    "style-loader": "^3.3.1",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "main": "webpack.config.js"
+}
