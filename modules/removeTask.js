@@ -14,4 +14,4 @@ const removeTask = (e) => {
   setTaskIntoLocalStorage(tasks);
 };
 
-export default removeTask
+export default removeTask;
