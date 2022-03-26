@@ -10,8 +10,8 @@ const removeTask = (e) => {
       break;
     }
   }
-  tasks.forEach((task,index)=>task.index=index+1)
+  tasks.forEach((task, index) => { task.index = index + 1; });
   setTaskIntoLocalStorage(tasks);
 };
 
-export default removeTask;
+export default removeTask

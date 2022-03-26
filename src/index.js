@@ -32,7 +32,7 @@ const optionClickHandler = (e) => {
 
     e.target.parentNode.style.backgroundColor = '#ffffe0';
     input.style.backgroundColor = '#ffffe0';
-    //e.target.classList.add('invisible');
+    // e.target.classList.add('invisible');
   } else if (e.target.className.indexOf('task') > -1) {
     ellipsis.classList.remove('invisible');
     trash.classList.add('invisible');
@@ -87,7 +87,6 @@ const refreshTaskList = () => {
       optionClickHandler(e);
     });
     inputElem[i].addEventListener('keypress', (e) => {
-
       if (e.key === 'Enter') {
         console.log('Yes');
         inputElem[i].value = e.target.value;
@@ -108,7 +107,7 @@ const removeTaskHandler = (e) => {
 };
 
 newTask.addEventListener('keyup', (e) => {
-  e.stopImmediatePropagation();e.target.parentNode.style.backgroundColor = '';
+  e.stopImmediatePropagation(); e.target.parentNode.style.backgroundColor = '';
   if (e.keyCode === 13) {
     addTask(e.target.value);
     e.target.value = '';
