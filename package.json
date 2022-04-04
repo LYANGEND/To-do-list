@@ -9,7 +9,6 @@
     "build": "webpack",
     "start": "webpack-dev-server --mode=development",
     "deploy": "gh-pages -d dist"
-
   },
   "repository": {
     "type": "git",
