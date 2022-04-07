@@ -25,7 +25,7 @@ git@github.com:LYANGEND/TO-DO-LIST.git in your terminal.
 
 
 
-👤 **Author**
+👤 **Author*
 
 - GitHub: [@githubhandle](https://github.com/LYANGEND)
 - Twitter: [@twitterhandle](https://twitter.com/david_lyangenda)
