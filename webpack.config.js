@@ -4,9 +4,10 @@ module.exports = {
   mode: 'development',
   entry: './src/index.js',
   output: {
-    filename: 'main.js', 
-    path: path.resolve(__dirname, 'docs'), 
-    clean: true, 
+    filename: 'main.js',
+    // eslint-disable-next-line no-undef
+    path: path.resolve(__dirname, 'docs'),
+    clean: true,
     publicPath: '/',
   },
   plugins: [
@@ -26,6 +27,6 @@ module.exports = {
   },
 
   devServer: {
-    static: './dist', 
+    static: './dist',
   },
 };
